@@ -1,0 +1,7 @@
+{
+  "swarm": {
+    "project": "Nmlc.Swarm.Plugin.csproj",
+    "rpcInterface": "Nmlc.Swarm.Plugin.ISwarmRpcModule",
+    "implementation": "Nmlc.Swarm.Plugin.SwarmRpcModule"
+  }
+}
